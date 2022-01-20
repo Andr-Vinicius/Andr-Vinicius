@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil! 😉💻
 
-<p>📋Portifólio:  </p><br>
+<p>  </p><br>
 
 <div align="center">
   <a href="https://github.com/Vininicius21">
