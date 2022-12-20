@@ -1,7 +1,7 @@
 ## Vinicius Andrade 😉💻
 
 <p>Sou proativo, determinado e apaixonado por computação. Sempre gostei de computadores, mas só 
-tive meu primeiro contato com programação na faculdade (estou no último semestre) e já fiquei
+tive meu primeiro contato com programação na faculdade e já fiquei
 fascinado com as inúmeras possibilidades que esse ambiente proporciona. Meu 
 principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. </p><br>
 
