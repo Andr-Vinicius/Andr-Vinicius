@@ -1,10 +1,24 @@
-## Vinicius Andrade 😉💻
+## Olá, me chamo Vinicius (21 anos) 😉
 
-<p>Sou proativo, determinado e apaixonado por computação. Sempre gostei de computadores, mas só 
-tive meu primeiro contato com programação na faculdade e já fiquei
-fascinado com as inúmeras possibilidades que esse ambiente proporciona. Meu 
-principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. </p><br>
+<ul>
+  <li>Desenvolvedor Front-end 💻</li>
+  <li>Quase gradudado em Ciência da Computação 🎓</li>
+  <li>Estudando ReactJS 🌱</li>
+  <li>Buscando a minha primeira oportunidade 🙏</li>
+</ul>
 
+<p> Sou apaixonado por computação e sempre tive certeza de que iria seguir essa área, mas só 
+tive meu primeiro contato com programação na faculdade, e já de cara fiquei
+fascinado com as inúmeras possibilidades que esse meio proporciona.</p>
+
+<p>Meu 
+principal objetivo tem sido a integração ao mercado de trabalho como programador Junior, principalmente com o desenvolvimento Front-end. Meus contatos logo abaixo:</p>
+<ul>
+  <li>Email para contato: vncsandrade01@gmail.com</li>
+  <li>Celular (Whatsapp): (19) 99198-1419</li> 
+<ul>
+
+  <br><br>
 <div align="center">
   <a href="https://github.com/Andr-Vinicius">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,13 +29,14 @@ principal objetivo tem sido a integração ao mercado de trabalho como programad
 
 <div align="center"> 
     <img style="width: 4em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 
           
 </div>
