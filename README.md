@@ -12,7 +12,7 @@ tive meu primeiro contato com programação na faculdade, e já de cara fiquei
 fascinado com as inúmeras possibilidades que esse meio proporciona.</p>
 
 <p>Meu 
-principal objetivo tem sido a integração ao mercado de trabalho como programador Junior, principalmente com o desenvolvimento Front-end. Meus contatos logo abaixo:</p>
+principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Meu contato logo abaixo:</p>
 <ul>
   <li>Email para contato: vncsandrade01@gmail.com</li>
   <li>Celular (Whatsapp): (19) 99198-1419</li> 
