@@ -21,8 +21,8 @@ principal objetivo tem sido a integração ao mercado de trabalho como programad
   <br><br>
 <div align="center">
   <a href="https://github.com/Andr-Vinicius">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&langs_count=7&theme=dark"/>
+    <img width="492" src="https://github-readme-stats.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="415"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## <div align="center">Ferramentas e tecnologias</div>
