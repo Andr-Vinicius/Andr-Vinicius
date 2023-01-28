@@ -2,7 +2,7 @@
 
 <ul>
   <li>Desenvolvedor Front-end 💻</li>
-  <li>Quase gradudado em Ciência da Computação 🎓</li>
+  <li>Quase graduado em Ciência da Computação 🎓</li>
   <li>Estudando ReactJS 🌱</li>
   <li>Buscando a minha primeira oportunidade 🙏</li>
 </ul>
