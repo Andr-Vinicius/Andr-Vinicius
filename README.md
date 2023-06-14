@@ -1,4 +1,4 @@
-## Olá, me chamo Vinicius (21 anos) 😉
+## Olá, me chamo Vinicius (22 anos) 😉
 
 <ul>
   <li>Desenvolvedor Front-end 💻</li>
