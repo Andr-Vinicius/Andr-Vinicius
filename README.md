@@ -3,7 +3,7 @@
 <ul>
   <li>Desenvolvedor FullStack 💻</li>
   <li>Graduado em Ciência da Computação 🎓</li>
-  <li>Estudando ReactJS e Java 🌱</li>
+  <li>Estudando ReactJS 🌱</li>
   <li>Buscando a minha primeira oportunidade 🙏</li>
 </ul>
 
