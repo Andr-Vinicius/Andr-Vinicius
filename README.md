@@ -1,7 +1,7 @@
 ## Olá, me chamo Vinicius (23 anos) 😉
 
 <ul>
-  <li>Desenvolvedor FullStack 💻</li>
+  <li>Desenvolvedor Front-end 💻</li>
   <li>Graduado em Ciência da Computação 🎓</li>
   <li>Estudando ReactJS 🌱</li>
   <li>Buscando a minha primeira oportunidade 🙏</li>
