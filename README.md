@@ -1,21 +1,20 @@
-## Olá, me chamo Vinicius (23 anos) 😉
+## Olá, me chamo Vinicius (24 anos) 😉
 
 <ul>
-  <li>Desenvolvedor Front-end 💻</li>
+  <li>Desenvolvedor Full-Stack 💻</li>
   <li>Graduado em Ciência da Computação 🎓</li>
-  <li>Estudando ReactJS 🌱</li>
-  <li>Buscando a minha primeira oportunidade 🙏</li>
+  <li>Pós Graduado em Ciência de Dados e IA 🎓</li>
+  <li>Estudando Vue.JS e Java 🌱</li>
 </ul>
 
-<p> Sou apaixonado por computação e sempre tive certeza de que iria seguir essa área, mas só 
-tive meu primeiro contato com programação na faculdade, e já de cara fiquei
-fascinado com as inúmeras possibilidades que esse meio proporciona.</p>
+<p> Desenvolvedor Full Stack com foco em soluções web modernas, atuando no
+desenvolvimento de aplicações completas e bem estruturadas. Busco uma oportunidade,
+preferencialmente remota, para aplicar e expandir meus conhecimentos, contribuindo com projetos
+inovadores e de alto impacto na sociedade.</p>
 
-<p>Meu 
-principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Entre em contato comigo através do:</p>
 <ul>
   <li>Email para contato: vncsandrade01@gmail.com</li>
-  <li>Celular (Whatsapp): (19) 99198-1419</li> 
+  <li>Celular (Whatsapp): (19) 97131-1419</li> 
 <ul>
 
   <br><br>
