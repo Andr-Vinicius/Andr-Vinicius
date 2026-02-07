@@ -22,15 +22,13 @@ inovadores e de alto impacto na sociedade.</p>
 ## <div align="center">Ferramentas e tecnologias</div>
 
 <div align="center"> 
-    <img style="width: 4em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img style="width: 4em;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vuejs/vuejs-original.svg" />
+    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img style="width: 4em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
-    <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 
           
