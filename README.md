@@ -1,13 +1,13 @@
-## Olá, me chamo Vinicius (24 anos) 😉
+## Olá, tudo bem? Meu nome é Vinicius (24 anos) 😉
 
 <ul>
-  <li>Desenvolvedor Full-Stack 💻</li>
+  <li>Desenvolvedor Full-Stack Junior💻</li>
   <li>Graduado em Ciência da Computação 🎓</li>
   <li>Pós Graduado em Ciência de Dados e IA 🎓</li>
-  <li>Estudando Vue.JS e Java 🌱</li>
+  <li>Estudando Java (Spring) 🌱</li>
 </ul>
 
-<p> Desenvolvedor Full Stack com foco em soluções web modernas, atuando no
+<p> Sou um desenvolvedor full stack com foco em soluções web modernas, atuando no
 desenvolvimento de aplicações completas e bem estruturadas. Busco uma oportunidade,
 preferencialmente remota, para aplicar e expandir meus conhecimentos, contribuindo com projetos
 inovadores e de alto impacto na sociedade.</p>
