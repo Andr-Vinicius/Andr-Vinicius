@@ -18,11 +18,6 @@ inovadores e de alto impacto na sociedade.</p>
 <ul>
 
   <br><br>
-<div align="center">
-  <a href="https://github.com/Andr-Vinicius">
-    <img width="415"  src="https://github-readme-stats.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ## <div align="center">Ferramentas e tecnologias</div>
 
