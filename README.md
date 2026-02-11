@@ -23,6 +23,7 @@ inovadores e de alto impacto na sociedade.</p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact)](https://github.com/Andr-Vinicius)
 
+
 ## <div align="center">Ferramentas e tecnologias</div>
 
 <div align="center"> 
