@@ -19,7 +19,7 @@ inovadores e de alto impacto na sociedade.</p>
 
   <br><br>
 
-  [![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Andr-Vinicius/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr-Vinicius)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <div align="center">Ferramentas e tecnologias</div>
 
