@@ -19,13 +19,10 @@ inovadores e de alto impacto na sociedade.</p>
 
   <br><br>
 
-## 🚀 Minhas linguagens mais usadas
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&theme=dark)
-
 
 ## 📊 GitHub Status
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
 
 
 ## <div align="center">Ferramentas e tecnologias</div>
