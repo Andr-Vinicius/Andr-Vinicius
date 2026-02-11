@@ -20,7 +20,7 @@ inovadores e de alto impacto na sociedade.</p>
   <br><br>
 
 
-## 📊 Status do Github
+## <div align="center">Status do Github</div>
 
 <div align="center">
   <img
