@@ -20,9 +20,18 @@ inovadores e de alto impacto na sociedade.</p>
   <br><br>
 
 
-## 📊 GitHub Status
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+## 📊 Status do Github
+
+<div align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andr-Vinicius&layout=compact&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andr-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    height="165"
+  />
+</div>
 
 
 ## <div align="center">Ferramentas e tecnologias</div>
