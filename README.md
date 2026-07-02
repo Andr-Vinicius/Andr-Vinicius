@@ -4,7 +4,7 @@
   <li>Desenvolvedor Full-Stack Junior💻</li>
   <li>Graduado em Ciência da Computação 🎓</li>
   <li>Pós Graduado em Ciência de Dados e IA 🎓</li>
-  <li>Estudando Flutter 📚🧠</li>
+  <li>Estudando NestJS 📚🧠</li>
 </ul>
 
 <p> Sou um desenvolvedor full stack com foco em soluções web modernas, atuando no
