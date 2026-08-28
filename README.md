@@ -8,12 +8,9 @@
 </ul>
 
 <p> Sou um Desenvolvedor Full Stack formado em Ciência da Computação, com experiência no desenvolvimento e manutenção de aplicações web.
- 
-Atualmente, trabalho principalmente com Next.js e NestJS, participando da implementação de novas funcionalidades, integrações, correção de problemas e evolução arquitetural de aplicações voltadas para agências de tours.
- 
-Ao longo da minha trajetória, também desenvolvi soluções utilizando Vue.js e PHP, além de possuir experiência com APIs, Git, bancos de dados e ferramentas voltadas ao desenvolvimento e manutenção de sistemas.
- 
-Tenho interesse em oportunidades e projetos envolvendo desenvolvimento Full Stack, aplicações web, arquitetura de sistemas e produtos SaaS.</p>
+ Atualmente, trabalho principalmente com Next.js e NestJS, participando da implementação de novas funcionalidades, integrações, correção de problemas e evolução arquitetural de aplicações voltadas para agências de tours.
+ Ao longo da minha trajetória, também desenvolvi soluções utilizando Vue.js e PHP, além de possuir experiência com APIs, Git, bancos de dados e ferramentas voltadas ao desenvolvimento e manutenção de sistemas.
+ Tenho interesse em oportunidades e projetos envolvendo desenvolvimento Full Stack, aplicações web, arquitetura de sistemas e produtos SaaS.</p>
 
 <ul>
   <li>Email para contato: vncsandrade01@gmail.com</li>
@@ -40,6 +37,8 @@ Tenho interesse em oportunidades e projetos envolvendo desenvolvimento Full Stac
 ## <div align="center">Ferramentas e tecnologias</div>
 
 <div align="center"> 
+    <img style="width: 4em;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original.svg" />
+    <img style="width: 4em;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" />
     <img style="width: 4em;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vuejs/vuejs-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img style="width: 4em; margin-left: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
