@@ -4,13 +4,16 @@
   <li>Desenvolvedor Full-Stack Junior💻</li>
   <li>Graduado em Ciência da Computação 🎓</li>
   <li>Pós Graduado em Ciência de Dados e IA 🎓</li>
-  <li>Estudando NestJS 📚🧠</li>
+  <li>Estudando NestJS e Next.js 📚🧠</li>
 </ul>
 
-<p> Sou um desenvolvedor full stack com foco em soluções web modernas, atuando no
-desenvolvimento de aplicações completas e bem estruturadas. Busco uma oportunidade,
-preferencialmente remota, para aplicar e expandir meus conhecimentos, contribuindo com projetos
-inovadores e de alto impacto na sociedade.</p>
+<p> Sou um Desenvolvedor Full Stack formado em Ciência da Computação, com experiência no desenvolvimento e manutenção de aplicações web.
+ 
+Atualmente, trabalho principalmente com Next.js e NestJS, participando da implementação de novas funcionalidades, integrações, correção de problemas e evolução arquitetural de aplicações voltadas para agências de tours.
+ 
+Ao longo da minha trajetória, também desenvolvi soluções utilizando Vue.js e PHP, além de possuir experiência com APIs, Git, bancos de dados e ferramentas voltadas ao desenvolvimento e manutenção de sistemas.
+ 
+Tenho interesse em oportunidades e projetos envolvendo desenvolvimento Full Stack, aplicações web, arquitetura de sistemas e produtos SaaS.</p>
 
 <ul>
   <li>Email para contato: vncsandrade01@gmail.com</li>
