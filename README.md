@@ -7,7 +7,11 @@
   <li>Estudando NestJS e Next.js 📚🧠</li>
 </ul>
 
-<p>Desenvolvedor Full Stack e Bacharel em Ciência da Computação, com experiência no desenvolvimento e manutenção de aplicações web utilizando Next.js, NestJS, Vue.js e PHP. Atuo na implementação de funcionalidades, integrações, correção de bugs e evolução arquitetural, com conhecimentos em APIs, Git e bancos de dados. Tenho interesse em desenvolvimento Full Stack, arquitetura de sistemas e soluções SaaS.</p>
+<p>Sou apaixonado por tecnologia e computação desde que me conheço por gente. Sou Bacharel em Ciência da Computação e pós-graduado em Ciência de Dados e Inteligência Artificial.
+
+Tenho experiência com desenvolvimento Full Stack, principalmente utilizando Next.js e NestJS, além de conhecimentos em Vue.js, PHP, Java, APIs REST e bancos de dados.
+
+Estou sempre em busca de novos conhecimentos, desafios e oportunidades para transformar ideias em soluções tecnológicas.</p>
 
 <ul>
   <li>Email para contato: vncsandrade01@gmail.com</li>
